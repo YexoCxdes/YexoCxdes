@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YexoCxdes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YexoCxdes)](https://github.com/YexoCxdes/)
 # i make discord stuff
 
 # contact me on discord @ yexo_.
